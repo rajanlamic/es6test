@@ -7,7 +7,7 @@
 class GetMe {
 
     alert() {
-        alert('alert action');
+        alert('alert action now');
     }
     log() {
         console.log('log ed');
