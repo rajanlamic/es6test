@@ -4,8 +4,8 @@
 Following technologies are used
 <ul>
 	<li>Gulp</li>
-	</li>Browserify</li>
-	</li>Babelify</li>
-	</li>ES6</li>
+	<li>Browserify</li>
+	<li>Babelify</li>
+	<li>ES6</li>
 </ul>
 </p>
