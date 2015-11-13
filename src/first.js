@@ -7,9 +7,14 @@
 class GetMe {
 
     alert() {
-        alert('alert action now');
+        alert('changed now');
     }
+
     log() {
+        var sa = (() => {
+            alert('sa m');
+        })();
+
         console.log('log ed');
     }
 }
